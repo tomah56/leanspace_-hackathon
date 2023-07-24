@@ -1,7 +1,5 @@
 # React Starter Kit (Read fully before using)
 
-[...]
-
 ## Installation
 
 To install the starter kit, first, make sure that you have nodeJS and NPM installed on your device.
